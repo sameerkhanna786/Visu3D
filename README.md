@@ -2,6 +2,8 @@
 
 This constructs a view of the MRI through all 3 anatomical slices.
 
+![Visu3d](Visu3D.png)
+
 ## Getting Started
 
 The software is already loaded with the sample MRI of the brain that comes with Matlab.
