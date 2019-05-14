@@ -1,4 +1,4 @@
-# Visu3D v2.0
+# Visu3D
 
 This constructs a view of the MRI through all 3 anatomical slices.
 
